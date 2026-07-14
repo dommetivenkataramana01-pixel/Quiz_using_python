@@ -38,4 +38,4 @@ python Quiz_Project.py
 - Structuring a simple interactive Python program
 
 ## 👤 Author
-Venkat — CSE (Data Science) undergrad, learning Python for data analytics.
+Venkata Ramana — CSE (Data Science) undergrad, learning Python for data analytics.
